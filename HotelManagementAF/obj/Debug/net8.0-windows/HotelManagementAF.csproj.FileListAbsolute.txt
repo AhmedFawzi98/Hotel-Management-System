@@ -130,6 +130,7 @@ C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0
 C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\HotelManagementAF.AssemblyInfoInputs.cache
 C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\HotelManagementAF.AssemblyInfo.cs
 C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\HotelManagementAF.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\HotelManagementAF.sourcelink.json
 C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\HotelManagementAF.csproj.CopyComplete
 C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\HotelManagementAF.dll
 C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\obj\Debug\net8.0-windows\refint\HotelManagementAF.dll

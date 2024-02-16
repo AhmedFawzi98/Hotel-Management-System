@@ -122,7 +122,7 @@ namespace HotelManagementAF
             tabControl.ItemSize = new Size(100, 38);
             tabControl.Location = new Point(15, 73);
             tabControl.Name = "tabControl";
-            tabControl.SelectedIndex = 2;
+            tabControl.SelectedIndex = 0;
             tabControl.SelectedTextColor = Color.WhiteSmoke;
             tabControl.Size = new Size(1042, 618);
             tabControl.SizeMode = TabSizeMode.Fixed;
@@ -134,6 +134,7 @@ namespace HotelManagementAF
             tabControl.ThemeName = null;
             tabControl.UnselectedTextColor = Color.White;
             tabControl.UseAnimation = false;
+            tabControl.SelectedIndexChanged += tabControl_SelectedIndexChanged;
             // 
             // tabPage1
             // 

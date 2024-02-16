@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
+      "projectUniqueName": "C:\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
       "projectName": "Loggingx",
-      "projectPath": "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
+      "projectPath": "C:\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\obj\\",
+      "outputPath": "C:\\HotelManagementAF\\Loggingx\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

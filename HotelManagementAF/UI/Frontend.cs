@@ -11,7 +11,7 @@ public partial class Frontend : MetroSetForm
     private BindingSource _reservationBindingSource;
     private List<Reservation> _reservationsFound;
     private string mySeperator = "                             ";
-    public  int reservationNumberOfdays { get; set; }
+    public int reservationNumberOfdays { get; set; }
 
     public Frontend(ILogger logger, ReservationContext reservationContext)
     {
@@ -105,10 +105,15 @@ public partial class Frontend : MetroSetForm
                     _reservationsFound.Add(reservation);
         }
     }
+    private void tabControl_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        if(tabControl.SelectedIndex == 3)
+            LoadListBoxes();
+    }
     private void LoadListBoxes()
     {
         listboxOccupied.Items.Clear();
-        listboxReserved.Items.Clear();  
+        listboxReserved.Items.Clear();
         var occupiedLst = _reservationContext.Reservations.Local.Where(r => r.CheckIn == true).ToList();
         var reservedLst = _reservationContext.Reservations.Local.Where(r => r.CheckIn == false).ToList();
         foreach (var occupied in occupiedLst)
@@ -198,7 +203,7 @@ public partial class Frontend : MetroSetForm
         {
             UpdatePropertiesWithComboBoxes();
             UpdateBools();
-            if(ValidateData())
+            if (ValidateData())
             {
                 _reservationBindingSource.EndEdit();
                 if (lblNewAdd.Visible == true)
@@ -228,12 +233,12 @@ public partial class Frontend : MetroSetForm
         foreach (var entity in entitiesToValidate)
         {
             var validationContext = new ValidationContext(entity);
-            var validationResults = new List<ValidationResult>(); 
-            bool isValid = Validator.TryValidateObject(entity, validationContext, validationResults, true); 
+            var validationResults = new List<ValidationResult>();
+            bool isValid = Validator.TryValidateObject(entity, validationContext, validationResults, true);
             if (!isValid)
             {
                 string allValidationErrors = composeAllValidationErrorsMessage(validationResults);
-                MetroSetMessageBox.Show(this, allValidationErrors,"Invalid Data", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MetroSetMessageBox.Show(this, allValidationErrors, "Invalid Data", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
         }
@@ -244,7 +249,7 @@ public partial class Frontend : MetroSetForm
         StringBuilder sb = new StringBuilder();
         foreach (var validationResult in validationResults)
         {
-            sb.AppendLine(validationResult.ErrorMessage); 
+            sb.AppendLine(validationResult.ErrorMessage);
         }
         return sb.ToString();
     }
@@ -267,4 +272,5 @@ public partial class Frontend : MetroSetForm
     {
         (_reservationBindingSource.Current as Reservation).CheckIn = checkboxCheckedIn.Checked;
     }
+
 }
