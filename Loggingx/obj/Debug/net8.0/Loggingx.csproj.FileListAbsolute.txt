@@ -32,3 +32,15 @@ C:\Users\ahmed\source\repos\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx
 C:\Users\ahmed\source\repos\HotelManagementAF\Loggingx\obj\Debug\net8.0\refint\Loggingx.dll
 C:\Users\ahmed\source\repos\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.pdb
 C:\Users\ahmed\source\repos\HotelManagementAF\Loggingx\obj\Debug\net8.0\ref\Loggingx.dll
+C:\HotelManagementAF\Loggingx\bin\Debug\net8.0\Loggingx.deps.json
+C:\HotelManagementAF\Loggingx\bin\Debug\net8.0\Loggingx.dll
+C:\HotelManagementAF\Loggingx\bin\Debug\net8.0\Loggingx.pdb
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.GeneratedMSBuildEditorConfig.editorconfig
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.AssemblyInfoInputs.cache
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.AssemblyInfo.cs
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.csproj.CoreCompileInputs.cache
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.sourcelink.json
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.dll
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\refint\Loggingx.dll
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\Loggingx.pdb
+C:\HotelManagementAF\Loggingx\obj\Debug\net8.0\ref\Loggingx.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HotelManagementAF\\Loggingx\\Loggingx.csproj": {}
+    "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\Loggingx.csproj": {}
   },
   "projects": {
-    "C:\\HotelManagementAF\\Loggingx\\Loggingx.csproj": {
+    "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\Loggingx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
         "projectName": "Loggingx",
-        "projectPath": "C:\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
+        "projectPath": "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\Loggingx.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\HotelManagementAF\\Loggingx\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\source\\repos\\HotelManagementAF\\Loggingx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

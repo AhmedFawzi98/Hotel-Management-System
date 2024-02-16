@@ -10,6 +10,8 @@ public partial class Frontend : MetroSetForm
     private readonly ILogger _logger;
     private BindingSource _reservationBindingSource;
     private List<Reservation> _reservationsFound;
+    private bool IsAttached = false;
+
     private string mySeperator = "                             ";
     public int reservationNumberOfdays { get; set; }
 
@@ -57,6 +59,7 @@ public partial class Frontend : MetroSetForm
         this.checkboxCheckedIn.DataBindings.Add("Checked", _reservationBindingSource, "CheckIn", true, DataSourceUpdateMode.OnPropertyChanged);
         this.checkboxRoomServiceStatus.DataBindings.Add("Checked", _reservationBindingSource, "SupplyStatus", true, DataSourceUpdateMode.OnPropertyChanged);
         this.checkboxRoomServiceStatus.Enabled = false;
+        IsAttached = true;
     }
 
     private void UpdateComboBoxesWithIndexChanged(object sender, EventArgs e)
@@ -160,7 +163,8 @@ public partial class Frontend : MetroSetForm
         _reservationBindingSource.MoveLast();
         _reservationBindingSource.CurrentChanged += UpdateComboBoxesWithIndexChanged;
         ClearControlsField();
-        AttachSimpleBindings();
+        if(!IsAttached)
+            AttachSimpleBindings();
         lblNewAdd.Visible = true;
         btnSave.Visible = true;
     }
@@ -187,7 +191,8 @@ public partial class Frontend : MetroSetForm
         lblExistingReservation.Visible = true;
         btnSave.Visible = true;
         loadExistingReservationsComboBox();
-        AttachSimpleBindings();
+        if (!IsAttached)
+            AttachSimpleBindings();
     }
     private void loadExistingReservationsComboBox()
     {
