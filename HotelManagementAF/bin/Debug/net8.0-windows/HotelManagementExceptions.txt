@@ -1,0 +1,817 @@
+
+
+on 14/02/2024 22:14:15 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 46
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 29
+
+
+
+on 14/02/2024 22:14:58 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 46
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 29
+
+
+
+on 14/02/2024 22:15:53 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 46
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 29
+
+
+
+on 14/02/2024 22:18:46 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 46
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 29
+
+
+
+on 14/02/2024 22:20:13 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 46
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 29
+
+
+
+on 14/02/2024 22:21:21 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 49
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 30
+
+
+
+on 14/02/2024 22:22:16 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 49
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 30
+
+
+
+on 14/02/2024 22:23:14 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 49
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 30
+
+
+
+on 14/02/2024 22:25:56 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 49
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 32
+
+
+
+on 14/02/2024 22:26:49 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 49
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 32
+
+
+
+on 14/02/2024 22:28:07 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 49
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 32
+
+
+
+on 14/02/2024 22:28:33 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column Advance on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 51
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 32
+
+
+
+on 14/02/2024 22:29:55 an unhandled exception was thrown,
+
+exception message: This causes two bindings in the collection to bind to the same property. (Parameter 'binding'),
+
+with the following stack trace:    at System.Windows.Forms.ControlBindingsCollection.CheckDuplicates(Binding binding)
+   at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.FrontEnd.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 56
+   at HotelManagementAF.FrontEnd.FrontEnd_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 32
+
+
+
+on 15/02/2024 00:53:47 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.FrontEnd..ctor(ILogger logger, ReservationContext reservationContext) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 19
+   at HotelManagementAF.Program.Main() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\Program.cs:line 20
+
+
+
+on 15/02/2024 00:53:52 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.FrontEnd..ctor(ILogger logger, ReservationContext reservationContext) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 19
+   at HotelManagementAF.Program.Main() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\Program.cs:line 20
+
+
+
+on 15/02/2024 00:54:05 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.FrontEnd..ctor(ILogger logger, ReservationContext reservationContext) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 19
+   at HotelManagementAF.Program.Main() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\Program.cs:line 20
+
+
+
+on 15/02/2024 22:42:31 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Bill.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 42
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 29
+
+
+
+on 15/02/2024 22:47:49 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Bill.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 42
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 29
+
+
+
+on 15/02/2024 22:58:36 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 52
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 29
+
+
+
+on 15/02/2024 23:05:16 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.FrontEnd.UpdatePropertiesWithComboBoxes() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 210
+   at HotelManagementAF.FrontEnd.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 191
+
+
+
+on 15/02/2024 23:05:54 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.UI.Bill.CalcTotalBill() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 73
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 27
+
+
+
+on 15/02/2024 23:06:09 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.FrontEnd.UpdatePropertiesWithComboBoxes() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 210
+   at HotelManagementAF.FrontEnd.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\FrontEnd.cs:line 191
+
+
+
+on 15/02/2024 23:07:47 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 52
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 29
+
+
+
+on 15/02/2024 23:22:25 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 53
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 30
+
+
+
+on 15/02/2024 23:47:35 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 56
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 30
+
+
+
+on 15/02/2024 23:48:14 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 56
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 30
+
+
+
+on 15/02/2024 23:53:01 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 56
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 30
+
+
+
+on 15/02/2024 23:56:50 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 56
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 30
+
+
+
+on 16/02/2024 00:04:43 an unhandled exception was thrown,
+
+exception message: Index and length must refer to a location within the string. (Parameter 'length'),
+
+with the following stack trace:    at System.String.ThrowSubstringArgumentOutOfRange(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at HotelManagementAF.UI.Bill.GetCardType() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 56
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 30
+
+
+
+on 16/02/2024 00:29:09 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 200
+
+
+
+on 16/02/2024 00:38:50 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.UI.RoomService.UpdateBools() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\RoomService.cs:line 47
+   at HotelManagementAF.UI.RoomService.btnNext_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\RoomService.cs:line 41
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(HWND hWnd, MessageId msg, WPARAM wparam, LPARAM lparam)
+   at Windows.Win32.PInvoke.DispatchMessage(MSG* lpMsg)
+   at System.Windows.Forms.Application.ComponentManager.Microsoft.Office.IMsoComponentManager.FPushMessageLoop(UIntPtr dwComponentID, msoloop uReason, Void* pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(msoloop reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(msoloop reason, ApplicationContext context)
+   at HotelManagementAF.Program.Main() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\Program.cs:line 18
+
+
+
+on 16/02/2024 00:59:49 an unhandled exception was thrown,
+
+exception message: Object reference not set to an instance of an object.,
+
+with the following stack trace:    at HotelManagementAF.UI.Bill.CalcTotalBill() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 59
+   at HotelManagementAF.UI.Bill.Bill_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Bill.cs:line 28
+
+
+
+on 16/02/2024 01:07:03 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 217
+
+
+
+on 16/02/2024 01:14:39 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 217
+
+
+
+on 16/02/2024 03:39:50 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 42
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 14:07:45 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 211
+
+
+
+on 16/02/2024 14:13:59 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 213
+
+
+
+on 16/02/2024 14:21:01 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 213
+
+
+
+on 16/02/2024 14:39:33 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 205
+
+
+
+on 16/02/2024 15:02:08 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 216
+
+
+
+on 16/02/2024 15:23:58 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 42
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:30:11 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 44
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:32:35 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 46
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 27
+
+
+
+on 16/02/2024 15:41:33 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 45
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:43:11 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 45
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:44:31 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 45
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:45:12 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 45
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:47:32 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property 'Value' on the target control. (Parameter 'PropertyName'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.CheckBinding()
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 46
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 26
+
+
+
+on 16/02/2024 15:50:12 an unhandled exception was thrown,
+
+exception message: Cannot bind to the property or column RoomNum on the DataSource. (Parameter 'dataMember'),
+
+with the following stack trace:    at System.Windows.Forms.Binding.BindToObject.CheckBinding()
+   at System.Windows.Forms.Binding.set_BindingManagerBase(BindingManagerBase value)
+   at System.Windows.Forms.ListManagerBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.BindingContext.UpdateBinding(BindingContext newBindingContext, Binding binding)
+   at System.Windows.Forms.Binding.SetBindableComponent(IBindableComponent value)
+   at System.Windows.Forms.ControlBindingsCollection.AddCore(Binding dataBinding)
+   at System.Windows.Forms.BindingsCollection.Add(Binding binding)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode, Object nullValue, String formatString, IFormatProvider formatInfo)
+   at System.Windows.Forms.ControlBindingsCollection.Add(String propertyName, Object dataSource, String dataMember, Boolean formattingEnabled, DataSourceUpdateMode updateMode)
+   at HotelManagementAF.UI.Kitchen.AttachSimpleBindings() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 53
+   at HotelManagementAF.UI.Kitchen.Kitchen_Load(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 31
+
+
+
+on 16/02/2024 16:46:19 an unhandled exception was thrown,
+
+exception message: Items collection cannot be modified when the DataSource property is set.,
+
+with the following stack trace:    at System.Windows.Forms.ListBox.CheckNoDataSource()
+   at System.Windows.Forms.ListBox.ObjectCollection.Clear()
+   at HotelManagementAF.UI.Kitchen.UpdateList() in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 97
+   at HotelManagementAF.UI.Kitchen.btnSavek_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Kitchen.cs:line 84
+
+
+
+on 16/02/2024 19:23:02 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 210
+
+
+
+on 16/02/2024 19:31:52 an unhandled exception was thrown,
+
+exception message: An error occurred while saving the entity changes. See the inner exception for details.,
+
+with the following stack trace:    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HotelManagementAF.Frontend.btnSave_Click(Object sender, EventArgs e) in C:\Users\ahmed\source\repos\HotelManagementAF\HotelManagementAF\UI\Frontend.cs:line 210
+
